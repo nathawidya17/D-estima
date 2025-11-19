@@ -1,8 +1,6 @@
 # 📏 D-Estima
 
 **Aplikasi Prediksi Tinggi Badan**
-Dibangun dengan **Dart & Flutter**
-
 ---
 
 ## 📘 Deskripsi
@@ -149,4 +147,5 @@ D-Estima dirancang untuk:
 ## 👨‍💻 Developer
 
 Dibuat oleh: **Natha Widya Putra Nugraha**
+
 
