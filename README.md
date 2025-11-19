@@ -1,7 +1,3 @@
-Berikut README versi lengkap, rapi, dan profesional **dengan fitur prediksi, history, ekspor Excel, ganti tema, dan ganti bahasa**.
-
----
-
 # 📏 D-Estima
 
 **Aplikasi Prediksi Tinggi Badan**
@@ -153,3 +149,4 @@ D-Estima dirancang untuk:
 ## 👨‍💻 Developer
 
 Dibuat oleh: **Natha Widya Putra Nugraha**
+
